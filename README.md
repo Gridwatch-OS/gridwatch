@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:101827,100:0d1117&height=250&section=header&text=GRIDWATCH&fontSize=95&fontColor=00D4FF&fontAlignY=35&desc=Network%20Security%20Automation%20Platform%20by%20Syndrax&descAlignY=57&descColor=94A3B8&animation=fadeIn"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:101827,100:0d1117&height=250&section=header&text=GRIDWATCH&fontSize=95&fontColor=00D4FF&fontAlignY=35&desc=Network%20Security%20Automation%20Platform%20by%20Syndrax&descAlignY=57&descColor=94A3B8&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:101827,100:0d1117&height=250&section=header&text=GRIDWATCH&fontSize=95&fontColor=00D4FF&fontAlignY=35&desc=Network%20Security%20Automation%20Platform%20by%20Syndrax&descAlignY=57&descColor=94A3B8&animation=fadeIn" width="100%"/>
+</picture>
 
 <div align="center">
 
@@ -474,4 +479,3 @@ Released under the MIT License. See [LICENSE](LICENSE) for full details.
 **Sponsored by [Syndrax](https://www.syndrax.io)** &nbsp;•&nbsp; [syndrax.io](https://www.syndrax.io) &nbsp;•&nbsp; [GitHub](https://github.com/Gridwatch-OS) &nbsp;•&nbsp; [gridwatch.syndrax.io](https://gridwatch.syndrax.io)
 
 </div>
-````
